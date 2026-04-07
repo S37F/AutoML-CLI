@@ -1,0 +1,601 @@
+Age,Income,Credit_Score,Loan_Amount,Employment_Years,Has_Mortgage,Education,Loan_Approved
+57,32205,338.0,167002,6.0,No,High School,Rejected
+47,140243,788.0,193305,39.0,No,High School,Approved
+49,109874,841.0,218893,27.0,Yes,Bachelor,Approved
+22,32748,577.0,281524,31.0,No,High School,Rejected
+47,41097,502.0,212968,,No,High School,Rejected
+22,23092,365.0,75934,14.0,No,PhD,Rejected
+64,73311,407.0,60830,35.0,No,PhD,Approved
+53,42692,567.0,272673,20.0,Yes,PhD,Rejected
+35,144954,521.0,257364,5.0,No,Master,Approved
+41,43862,829.0,361742,0.0,Yes,Bachelor,Rejected
+51,110396,389.0,238294,3.0,No,PhD,Rejected
+57,99507,554.0,87987,10.0,Yes,Master,Approved
+27,100152,754.0,54178,25.0,Yes,Master,Approved
+27,90469,552.0,143009,36.0,Yes,Bachelor,Rejected
+25,24926,556.0,389096,22.0,No,Bachelor,Rejected
+33,111299,682.0,44886,28.0,Yes,High School,Approved
+51,23969,741.0,54699,20.0,No,Master,Rejected
+54,55733,389.0,81396,26.0,No,PhD,Rejected
+29,89855,689.0,95678,38.0,No,Bachelor,Approved
+22,61743,343.0,30279,,No,Master,Rejected
+31,59876,318.0,436322,12.0,No,PhD,Rejected
+68,127445,400.0,115776,22.0,Yes,Master,Approved
+50,40323,656.0,106444,15.0,No,Bachelor,Rejected
+48,36428,841.0,373444,29.0,Yes,High School,Approved
+24,54578,332.0,118793,3.0,Yes,Master,Rejected
+44,106486,528.0,383422,39.0,Yes,PhD,Approved
+60,128577,823.0,215809,15.0,Yes,Bachelor,Approved
+50,84140,454.0,176616,30.0,Yes,High School,Rejected
+40,146378,722.0,370391,,Yes,PhD,Approved
+39,127325,545.0,247262,11.0,Yes,PhD,Rejected
+58,103829,704.0,13997,25.0,No,PhD,Approved
+41,26364,840.0,111102,36.0,Yes,Master,Approved
+23,148867,460.0,352855,32.0,No,Bachelor,Approved
+32,55349,,383189,27.0,Yes,PhD,Rejected
+64,20691,570.0,45860,8.0,Yes,Master,Rejected
+61,146899,786.0,270369,11.0,Yes,Bachelor,Approved
+69,115598,471.0,115114,4.0,Yes,Bachelor,Rejected
+68,86467,573.0,457686,27.0,No,Master,Rejected
+39,65896,558.0,118218,34.0,No,Master,Rejected
+32,77062,434.0,367908,4.0,No,PhD,Rejected
+36,117266,721.0,112041,33.0,Yes,Bachelor,Approved
+55,99762,720.0,379368,33.0,Yes,High School,Approved
+52,33861,485.0,330800,12.0,Yes,Master,Rejected
+20,116837,663.0,450096,38.0,No,Bachelor,Rejected
+34,133779,677.0,197150,13.0,Yes,Bachelor,Approved
+32,108302,822.0,486862,10.0,No,PhD,Approved
+36,121710,495.0,81290,37.0,No,High School,Approved
+43,83928,397.0,61633,3.0,Yes,PhD,Rejected
+27,126643,321.0,293799,32.0,Yes,High School,Rejected
+69,135720,749.0,126118,6.0,No,High School,Rejected
+46,103231,471.0,179673,7.0,No,Master,Rejected
+64,61347,682.0,8114,36.0,No,Bachelor,Approved
+42,23121,433.0,293646,9.0,Yes,Bachelor,Rejected
+65,103793,725.0,54768,14.0,Yes,Bachelor,Approved
+27,48164,324.0,315272,37.0,Yes,High School,Rejected
+27,45491,802.0,418244,14.0,Yes,Bachelor,Approved
+45,79222,484.0,453781,4.0,Yes,Master,Rejected
+66,43165,384.0,88123,28.0,Yes,High School,Rejected
+32,134250,443.0,113255,18.0,No,High School,Approved
+58,23748,711.0,171405,9.0,No,High School,Rejected
+56,118581,523.0,8174,11.0,No,High School,Rejected
+68,46553,519.0,122769,3.0,Yes,Master,Rejected
+47,136547,478.0,302542,30.0,No,Bachelor,Rejected
+44,80380,732.0,434145,17.0,Yes,Master,Rejected
+35,64331,564.0,140393,15.0,Yes,Bachelor,Approved
+21,116033,728.0,390693,39.0,No,Master,Approved
+37,116844,715.0,232043,35.0,Yes,PhD,Approved
+36,140617,752.0,247580,24.0,No,PhD,Rejected
+49,59560,496.0,191493,22.0,No,PhD,Rejected
+58,73865,352.0,77635,11.0,Yes,PhD,Rejected
+32,66686,779.0,290904,,No,High School,Approved
+51,95910,742.0,409576,35.0,No,High School,Approved
+69,24675,629.0,146385,36.0,No,Master,Rejected
+48,86706,550.0,397818,2.0,No,Master,Rejected
+65,126985,422.0,247878,8.0,Yes,PhD,Rejected
+49,129021,686.0,222070,17.0,No,Bachelor,Approved
+37,144062,638.0,404017,,No,PhD,Approved
+32,147359,647.0,281274,33.0,No,Master,Approved
+62,97986,328.0,412487,13.0,Yes,PhD,Rejected
+40,96216,334.0,414291,3.0,No,Master,Rejected
+49,30068,817.0,374359,28.0,Yes,PhD,Rejected
+40,74460,695.0,155056,14.0,No,Bachelor,Approved
+67,120766,593.0,355239,27.0,No,PhD,Rejected
+36,66418,648.0,328086,15.0,No,Bachelor,Rejected
+59,46206,446.0,148933,11.0,Yes,Bachelor,Rejected
+38,148180,366.0,103970,4.0,Yes,Master,Approved
+34,20287,819.0,87203,33.0,Yes,Bachelor,Approved
+28,42337,421.0,469592,0.0,Yes,High School,Rejected
+29,40666,639.0,197319,38.0,Yes,High School,Rejected
+63,136595,474.0,205173,31.0,Yes,High School,Rejected
+50,21161,750.0,157049,25.0,No,Master,Rejected
+42,134817,,448833,16.0,Yes,High School,Rejected
+49,141025,315.0,455689,26.0,No,Master,Rejected
+52,120667,632.0,222726,23.0,Yes,Master,Rejected
+28,110071,494.0,355321,,Yes,High School,Approved
+66,118064,795.0,77902,38.0,Yes,Bachelor,Approved
+20,58751,308.0,97172,25.0,No,PhD,Rejected
+63,102063,633.0,151702,37.0,Yes,Master,Approved
+54,126511,,25056,22.0,Yes,High School,Approved
+30,109389,626.0,143454,21.0,No,Master,Approved
+53,34758,,60739,3.0,No,Bachelor,Rejected
+35,85780,525.0,348829,8.0,No,Bachelor,Rejected
+28,135614,724.0,53639,3.0,No,High School,Approved
+51,23178,707.0,458054,6.0,Yes,Master,Rejected
+34,51831,412.0,444257,22.0,No,PhD,Rejected
+31,22176,727.0,268136,1.0,Yes,PhD,Approved
+52,123306,300.0,77394,23.0,Yes,Master,Rejected
+64,53654,565.0,334801,,No,Master,Rejected
+33,143220,790.0,294304,30.0,Yes,Master,Approved
+27,46627,507.0,312300,30.0,No,High School,Rejected
+27,72550,668.0,187447,39.0,Yes,Bachelor,Approved
+46,132025,605.0,353586,33.0,No,PhD,Rejected
+31,64910,311.0,155644,23.0,No,High School,Rejected
+20,110417,644.0,385069,25.0,No,Master,Rejected
+62,78251,764.0,9136,15.0,No,Master,Rejected
+59,55422,793.0,66868,,No,Bachelor,Rejected
+61,31984,667.0,349407,14.0,No,Master,Rejected
+30,109312,719.0,299311,26.0,Yes,High School,Approved
+58,81386,,115957,3.0,Yes,High School,Rejected
+62,103291,433.0,20479,15.0,Yes,Bachelor,Rejected
+50,27135,726.0,124392,29.0,No,High School,Approved
+36,20320,324.0,167448,29.0,Yes,PhD,Rejected
+52,122958,829.0,140895,35.0,No,High School,Approved
+51,114171,489.0,261228,2.0,Yes,High School,Approved
+48,41684,440.0,206528,21.0,Yes,High School,Rejected
+40,75913,614.0,286729,21.0,No,PhD,Rejected
+40,108774,743.0,239847,11.0,Yes,Master,Approved
+59,41889,618.0,415488,20.0,Yes,High School,Rejected
+42,115849,740.0,293763,3.0,Yes,Bachelor,Approved
+25,118071,391.0,342213,,No,PhD,Rejected
+41,68899,478.0,307039,30.0,Yes,Bachelor,Rejected
+69,144011,355.0,270864,22.0,No,High School,Rejected
+57,30770,454.0,286411,19.0,Yes,Bachelor,Rejected
+56,59321,410.0,151768,14.0,Yes,High School,Rejected
+64,105962,436.0,166040,22.0,Yes,PhD,Rejected
+27,129863,531.0,320508,27.0,Yes,Bachelor,Rejected
+60,61777,767.0,421561,,No,Bachelor,Approved
+68,66250,780.0,56567,36.0,Yes,High School,Approved
+54,93034,367.0,96229,20.0,No,High School,Rejected
+30,124940,548.0,459823,14.0,No,Master,Rejected
+43,60130,622.0,417601,16.0,Yes,High School,Rejected
+68,101931,817.0,481874,36.0,Yes,High School,Approved
+40,69346,731.0,465116,12.0,No,Master,Rejected
+21,22537,786.0,204316,18.0,No,High School,Rejected
+59,104762,728.0,201497,29.0,Yes,High School,Approved
+38,35216,568.0,345662,17.0,Yes,Master,Rejected
+58,104149,836.0,87844,13.0,Yes,PhD,Approved
+47,23009,447.0,168991,35.0,Yes,PhD,Rejected
+36,109904,417.0,95697,35.0,Yes,High School,Rejected
+25,49327,666.0,62196,19.0,No,High School,Approved
+38,34209,365.0,120600,18.0,Yes,Master,Rejected
+57,68443,669.0,105625,6.0,Yes,Master,Rejected
+47,35029,474.0,477617,3.0,No,PhD,Rejected
+21,87613,794.0,398711,33.0,Yes,Bachelor,Approved
+57,99443,413.0,311899,1.0,Yes,High School,Rejected
+56,76997,,465900,4.0,No,Bachelor,Rejected
+23,122171,738.0,38324,9.0,Yes,Bachelor,Approved
+41,134456,446.0,346073,31.0,No,Master,Rejected
+45,82559,334.0,399768,12.0,Yes,High School,Rejected
+68,84892,608.0,56272,38.0,Yes,High School,Approved
+62,90409,837.0,434069,4.0,Yes,Master,Approved
+55,28635,313.0,254264,,No,Bachelor,Rejected
+32,53065,673.0,168996,9.0,No,Master,Rejected
+51,131399,727.0,341606,37.0,No,PhD,Approved
+36,140544,532.0,232459,26.0,No,High School,Approved
+60,127340,739.0,159961,20.0,Yes,PhD,Approved
+55,53783,801.0,241538,7.0,No,Master,Rejected
+65,54152,574.0,59675,0.0,No,High School,Rejected
+38,78741,375.0,78591,27.0,No,PhD,Rejected
+54,127049,738.0,468406,38.0,Yes,PhD,Approved
+65,71502,588.0,158706,13.0,Yes,Bachelor,Rejected
+59,49092,839.0,299507,20.0,No,High School,Rejected
+47,37653,552.0,199824,29.0,No,PhD,Rejected
+20,117999,425.0,344148,20.0,Yes,PhD,Approved
+61,119564,476.0,454614,8.0,No,Bachelor,Rejected
+37,60469,336.0,234530,16.0,No,PhD,Rejected
+67,143064,709.0,307862,4.0,No,PhD,Approved
+59,106483,426.0,118627,,No,PhD,Rejected
+52,141585,782.0,218988,39.0,Yes,Bachelor,Approved
+31,79754,467.0,294014,37.0,Yes,PhD,Rejected
+27,49978,593.0,42394,18.0,Yes,PhD,Rejected
+43,107592,642.0,319201,35.0,No,High School,Approved
+35,114543,609.0,84795,32.0,No,High School,Approved
+69,63169,827.0,347553,12.0,Yes,Bachelor,Rejected
+23,68287,839.0,280160,13.0,Yes,Master,Approved
+57,74745,718.0,47137,32.0,Yes,High School,Rejected
+63,130168,743.0,398369,28.0,No,Bachelor,Approved
+46,133985,535.0,143925,35.0,Yes,PhD,Approved
+28,140843,738.0,17379,9.0,No,PhD,Approved
+66,25543,513.0,414008,,No,Bachelor,Rejected
+35,76392,384.0,126169,5.0,Yes,PhD,Rejected
+31,41067,384.0,174439,0.0,Yes,PhD,Rejected
+50,71033,788.0,154172,6.0,No,Master,Approved
+43,65256,364.0,131082,26.0,Yes,PhD,Rejected
+33,110633,363.0,380233,20.0,Yes,High School,Rejected
+64,128383,642.0,461672,27.0,No,PhD,Approved
+44,129048,651.0,16049,15.0,No,Bachelor,Rejected
+53,89345,,399002,22.0,No,Master,Rejected
+22,42191,790.0,468120,19.0,No,PhD,Rejected
+43,106803,762.0,166771,37.0,No,Bachelor,Approved
+61,92742,524.0,389928,24.0,Yes,High School,Rejected
+28,138843,612.0,314835,27.0,No,PhD,Rejected
+45,106593,765.0,173112,4.0,No,Master,Approved
+39,48992,387.0,254527,20.0,No,PhD,Rejected
+59,132050,602.0,229062,,Yes,Bachelor,Approved
+29,101531,734.0,62986,5.0,No,Master,Rejected
+38,68803,434.0,436978,28.0,No,PhD,Rejected
+22,129975,349.0,159672,18.0,No,High School,Rejected
+43,83477,731.0,361918,32.0,Yes,Master,Rejected
+24,33210,639.0,226849,0.0,No,High School,Rejected
+22,103329,646.0,418026,2.0,No,Bachelor,Rejected
+46,46270,646.0,221775,20.0,No,PhD,Rejected
+35,82008,544.0,485563,34.0,Yes,High School,Rejected
+68,25197,408.0,110315,39.0,Yes,Bachelor,Rejected
+34,133857,832.0,324348,2.0,Yes,PhD,Approved
+54,27452,389.0,287229,24.0,Yes,Bachelor,Rejected
+31,61486,595.0,182926,37.0,No,High School,Approved
+60,34859,411.0,473013,19.0,No,Bachelor,Rejected
+63,47236,476.0,220341,33.0,Yes,Master,Rejected
+45,51899,642.0,175851,20.0,Yes,PhD,Approved
+66,52083,400.0,192279,22.0,No,Bachelor,Rejected
+53,87708,700.0,230687,5.0,No,High School,Rejected
+42,131462,327.0,301124,12.0,Yes,PhD,Rejected
+50,36663,836.0,323261,22.0,Yes,Master,Approved
+69,113076,,150213,8.0,Yes,PhD,Rejected
+39,138665,797.0,145416,16.0,Yes,Master,Approved
+31,39053,596.0,20896,1.0,No,PhD,Rejected
+42,31085,433.0,94353,18.0,Yes,Bachelor,Rejected
+23,50564,630.0,34813,18.0,Yes,Bachelor,Rejected
+42,109745,548.0,220503,6.0,No,High School,Rejected
+67,79095,849.0,70679,19.0,No,Master,Approved
+67,89517,374.0,146753,,No,High School,Rejected
+20,41153,467.0,208975,16.0,No,Bachelor,Rejected
+44,25247,802.0,270372,26.0,No,Master,Approved
+21,30553,654.0,402798,1.0,Yes,High School,Rejected
+49,40811,524.0,214755,35.0,Yes,High School,Rejected
+22,115381,830.0,278541,18.0,Yes,High School,Approved
+40,26135,445.0,437015,16.0,No,High School,Rejected
+44,25573,540.0,304155,4.0,Yes,High School,Rejected
+39,138819,643.0,84183,38.0,No,Master,Approved
+68,144588,334.0,360398,17.0,Yes,High School,Rejected
+41,99267,300.0,442480,6.0,Yes,Master,Rejected
+40,27189,452.0,47317,16.0,No,High School,Rejected
+52,100077,728.0,183986,38.0,No,Bachelor,Approved
+57,63646,807.0,220705,35.0,Yes,Bachelor,Approved
+34,96623,425.0,369633,39.0,Yes,High School,Approved
+65,131971,790.0,181326,3.0,Yes,PhD,Approved
+34,73687,781.0,307240,37.0,Yes,Bachelor,Approved
+65,88312,644.0,320929,24.0,Yes,Master,Approved
+44,127615,520.0,57344,4.0,No,High School,Rejected
+40,47564,324.0,251060,29.0,No,Master,Rejected
+43,48835,827.0,480859,11.0,No,PhD,Rejected
+24,81587,481.0,387526,3.0,No,High School,Rejected
+25,27697,798.0,204618,23.0,Yes,Bachelor,Approved
+68,100165,341.0,469307,28.0,Yes,Master,Rejected
+62,93922,780.0,463819,8.0,No,Bachelor,Rejected
+67,37046,738.0,164484,3.0,Yes,Bachelor,Rejected
+63,77823,701.0,115489,23.0,No,High School,Rejected
+66,93580,845.0,449874,13.0,Yes,Master,Approved
+42,73370,644.0,498057,4.0,Yes,PhD,Rejected
+23,29615,344.0,447765,17.0,Yes,Bachelor,Rejected
+46,133338,320.0,263667,18.0,No,High School,Rejected
+37,25060,369.0,16549,11.0,No,High School,Rejected
+40,96436,347.0,469432,17.0,No,PhD,Rejected
+47,80519,790.0,30739,16.0,No,High School,Rejected
+54,140562,586.0,288353,29.0,Yes,Bachelor,Rejected
+41,91117,309.0,112051,,Yes,High School,Rejected
+59,81158,841.0,486184,10.0,Yes,Master,Approved
+42,54782,573.0,20116,34.0,Yes,Master,Rejected
+22,105709,680.0,25045,22.0,No,Bachelor,Approved
+59,98533,628.0,424543,16.0,Yes,Master,Rejected
+69,128939,778.0,40709,0.0,Yes,PhD,Approved
+29,78255,314.0,310761,14.0,Yes,High School,Rejected
+44,131952,815.0,458355,31.0,No,Bachelor,Approved
+68,92684,490.0,162977,8.0,No,PhD,Rejected
+27,76918,467.0,462364,14.0,No,High School,Rejected
+30,146093,820.0,208675,27.0,Yes,PhD,Approved
+24,104284,436.0,234167,23.0,No,Bachelor,Approved
+64,99558,,386923,34.0,Yes,Bachelor,Rejected
+56,105549,687.0,310063,21.0,Yes,PhD,Approved
+64,124223,508.0,350665,26.0,Yes,High School,Approved
+57,101422,571.0,491121,18.0,No,Master,Rejected
+48,140363,442.0,481616,11.0,No,Master,Rejected
+24,146352,368.0,224222,19.0,Yes,PhD,Rejected
+28,45256,546.0,194518,0.0,Yes,Bachelor,Rejected
+67,50005,560.0,188500,20.0,No,High School,Rejected
+21,26638,378.0,446110,0.0,No,High School,Rejected
+20,57419,824.0,479365,9.0,No,Bachelor,Approved
+59,53377,629.0,273591,31.0,Yes,Master,Rejected
+49,126244,488.0,10499,38.0,Yes,High School,Approved
+30,63116,394.0,44041,21.0,Yes,PhD,Rejected
+47,56634,307.0,298459,17.0,No,Master,Rejected
+63,102291,366.0,137371,31.0,No,PhD,Approved
+31,43382,795.0,387650,26.0,No,Master,Approved
+58,135303,490.0,141066,27.0,Yes,Bachelor,Approved
+45,76063,665.0,231486,17.0,Yes,PhD,Rejected
+32,42394,820.0,217235,38.0,No,PhD,Approved
+27,87789,416.0,262831,28.0,Yes,Bachelor,Rejected
+47,123246,566.0,405705,17.0,No,PhD,Rejected
+49,130634,784.0,358791,7.0,Yes,Master,Rejected
+28,20864,808.0,299499,30.0,No,High School,Rejected
+58,119572,597.0,340949,33.0,Yes,High School,Approved
+50,60222,463.0,335511,6.0,Yes,Bachelor,Rejected
+40,33666,675.0,377050,35.0,No,Master,Rejected
+66,143664,567.0,384553,17.0,No,PhD,Approved
+53,40955,848.0,344499,37.0,No,PhD,Approved
+50,130674,373.0,121220,8.0,No,High School,Rejected
+44,123533,807.0,226421,8.0,No,PhD,Rejected
+31,101845,372.0,354317,7.0,Yes,High School,Rejected
+20,136925,607.0,269140,34.0,No,Bachelor,Approved
+41,89590,498.0,256071,17.0,No,PhD,Rejected
+59,147775,429.0,311531,4.0,No,Master,Rejected
+56,86471,786.0,8089,13.0,Yes,PhD,Approved
+66,130476,450.0,365971,27.0,No,High School,Rejected
+20,108314,505.0,287803,29.0,No,Bachelor,Rejected
+20,142579,478.0,312322,,No,High School,Rejected
+61,63298,,100965,38.0,Yes,PhD,Rejected
+61,83108,,86268,19.0,Yes,High School,Rejected
+40,133864,733.0,352186,24.0,No,High School,Approved
+34,68924,482.0,373615,27.0,Yes,Bachelor,Rejected
+36,36709,508.0,206798,11.0,No,Master,Rejected
+41,29726,792.0,337255,1.0,Yes,PhD,Rejected
+57,80824,429.0,242103,13.0,No,Bachelor,Rejected
+54,60542,312.0,249754,21.0,Yes,Master,Rejected
+64,40245,405.0,170637,,No,High School,Rejected
+35,54753,674.0,367579,22.0,No,Master,Approved
+27,99788,398.0,94242,19.0,Yes,High School,Rejected
+66,41316,491.0,380348,37.0,No,High School,Rejected
+36,122907,624.0,158956,3.0,No,Bachelor,Rejected
+36,104698,766.0,284343,14.0,No,High School,Rejected
+45,35960,666.0,65038,23.0,No,Bachelor,Approved
+32,50791,617.0,62786,24.0,Yes,Master,Approved
+36,127766,443.0,376780,0.0,No,Master,Rejected
+57,45216,683.0,241042,6.0,Yes,High School,Rejected
+36,52467,515.0,316438,30.0,Yes,Bachelor,Rejected
+67,84427,660.0,214087,11.0,Yes,High School,Rejected
+33,132470,623.0,170250,4.0,Yes,Bachelor,Approved
+64,82047,314.0,410881,37.0,No,Bachelor,Rejected
+25,93290,516.0,267678,11.0,No,Bachelor,Rejected
+54,67014,791.0,358972,38.0,Yes,Master,Approved
+65,24078,846.0,303276,17.0,No,Bachelor,Rejected
+33,98389,482.0,382864,1.0,Yes,Master,Rejected
+66,70519,569.0,303254,9.0,No,Bachelor,Rejected
+27,24042,766.0,194826,14.0,No,Master,Rejected
+34,69052,818.0,330724,29.0,No,PhD,Approved
+46,34389,841.0,420685,16.0,Yes,Master,Rejected
+32,115961,766.0,331160,3.0,Yes,Master,Rejected
+68,88111,604.0,51233,6.0,No,High School,Approved
+50,125058,443.0,397007,30.0,Yes,Bachelor,Approved
+54,113715,410.0,202780,38.0,Yes,PhD,Rejected
+25,70733,531.0,456448,33.0,No,High School,Rejected
+24,54754,799.0,229522,5.0,Yes,Bachelor,Rejected
+41,38624,,484653,37.0,No,PhD,Rejected
+68,105886,472.0,111311,33.0,No,PhD,Rejected
+42,46681,306.0,39409,14.0,No,PhD,Rejected
+44,109524,454.0,251231,13.0,Yes,Bachelor,Rejected
+53,101006,821.0,417540,5.0,No,PhD,Rejected
+45,44704,845.0,406954,36.0,No,PhD,Approved
+66,124272,847.0,291198,31.0,Yes,High School,Approved
+24,114913,817.0,34709,2.0,Yes,Master,Approved
+45,114108,514.0,114321,2.0,Yes,Bachelor,Rejected
+39,143731,433.0,483859,21.0,Yes,Master,Rejected
+25,27493,584.0,5363,21.0,No,High School,Rejected
+25,89639,425.0,277502,9.0,Yes,Master,Rejected
+69,120380,738.0,499829,2.0,Yes,PhD,Rejected
+37,74383,451.0,401456,11.0,Yes,PhD,Rejected
+23,22994,630.0,470417,28.0,Yes,Bachelor,Rejected
+36,89280,837.0,50689,16.0,No,Bachelor,Approved
+33,67234,682.0,269080,6.0,Yes,Bachelor,Rejected
+33,67291,414.0,379416,12.0,No,High School,Rejected
+32,148674,781.0,96074,1.0,Yes,Bachelor,Approved
+26,112868,583.0,180037,3.0,No,High School,Rejected
+63,25594,374.0,213606,9.0,No,PhD,Rejected
+34,125835,465.0,5882,38.0,Yes,Master,Approved
+38,27371,488.0,418440,23.0,No,PhD,Rejected
+62,67315,377.0,372371,16.0,Yes,PhD,Rejected
+66,103564,320.0,259822,5.0,No,PhD,Rejected
+63,147251,483.0,130865,18.0,No,Bachelor,Approved
+54,121448,521.0,128745,4.0,No,Bachelor,Approved
+36,99526,627.0,429041,31.0,Yes,Bachelor,Approved
+54,132387,478.0,468956,9.0,No,Master,Rejected
+38,36626,411.0,33885,8.0,Yes,Bachelor,Rejected
+39,106005,358.0,176128,26.0,No,High School,Rejected
+55,126258,626.0,401419,12.0,No,PhD,Rejected
+54,125573,490.0,196313,18.0,No,Master,Rejected
+51,27130,499.0,400460,20.0,No,Master,Rejected
+67,26828,611.0,365466,23.0,No,Master,Rejected
+63,77514,334.0,335763,37.0,No,Master,Rejected
+59,127148,678.0,26584,3.0,Yes,Master,Approved
+43,132524,686.0,275665,23.0,Yes,High School,Approved
+36,124635,536.0,186089,34.0,Yes,PhD,Approved
+26,72664,818.0,300685,2.0,No,Master,Approved
+62,131701,582.0,34063,3.0,Yes,PhD,Rejected
+69,37883,300.0,75268,36.0,No,Bachelor,Rejected
+20,63059,763.0,261306,39.0,Yes,Master,Approved
+54,104078,529.0,131218,34.0,Yes,Master,Rejected
+51,62932,471.0,385350,30.0,No,PhD,Rejected
+55,149900,386.0,463168,24.0,No,Master,Rejected
+32,81269,422.0,229126,39.0,Yes,Master,Rejected
+25,139850,597.0,175635,12.0,Yes,Master,Approved
+33,95986,783.0,175824,3.0,Yes,High School,Rejected
+56,105959,464.0,231305,13.0,Yes,High School,Rejected
+67,22035,682.0,400783,12.0,No,Master,Rejected
+34,129767,508.0,414337,26.0,Yes,High School,Rejected
+66,60745,731.0,399890,5.0,No,Bachelor,Rejected
+23,37241,688.0,81411,16.0,No,Master,Rejected
+59,72975,523.0,114876,35.0,Yes,Bachelor,Rejected
+35,43154,302.0,464491,39.0,No,PhD,Rejected
+47,45625,671.0,203153,34.0,Yes,Bachelor,Approved
+35,64950,745.0,165212,16.0,No,PhD,Rejected
+23,118602,415.0,145399,1.0,No,Master,Rejected
+64,76396,569.0,468879,12.0,Yes,PhD,Rejected
+45,119227,746.0,28331,1.0,No,PhD,Approved
+47,138920,667.0,28004,27.0,No,Bachelor,Approved
+51,33331,552.0,243441,25.0,Yes,Bachelor,Rejected
+64,83927,616.0,386387,21.0,No,Bachelor,Rejected
+21,106226,714.0,408708,2.0,No,Master,Rejected
+50,104719,394.0,453013,34.0,Yes,Master,Rejected
+22,83014,323.0,194167,11.0,Yes,Bachelor,Rejected
+27,59346,349.0,411965,23.0,No,Master,Rejected
+43,90411,801.0,330361,4.0,No,Master,Approved
+34,74478,797.0,94044,19.0,No,PhD,Approved
+62,32254,634.0,276189,38.0,Yes,PhD,Rejected
+50,75734,,287260,38.0,No,Bachelor,Rejected
+28,48621,326.0,23667,12.0,No,Master,Rejected
+58,136490,570.0,342201,11.0,No,PhD,Rejected
+64,96441,546.0,79205,12.0,No,High School,Rejected
+21,66121,686.0,32302,9.0,No,Master,Approved
+27,147386,660.0,409499,32.0,No,High School,Approved
+26,101418,787.0,167007,39.0,Yes,Bachelor,Approved
+63,80197,651.0,77534,15.0,Yes,Master,Rejected
+58,104577,555.0,230414,34.0,No,Bachelor,Rejected
+61,114634,521.0,167696,2.0,No,Bachelor,Rejected
+35,138034,,18440,4.0,Yes,Bachelor,Rejected
+54,62431,845.0,378145,25.0,Yes,Bachelor,Approved
+49,137637,745.0,313645,10.0,Yes,Bachelor,Rejected
+29,119245,378.0,485549,6.0,No,Master,Rejected
+57,120211,535.0,399485,9.0,No,High School,Rejected
+37,24837,633.0,275012,33.0,No,Master,Rejected
+69,131984,648.0,166323,2.0,No,Master,Approved
+24,110025,397.0,345053,,Yes,Master,Rejected
+48,103163,381.0,89523,30.0,Yes,PhD,Approved
+58,91232,,174801,10.0,Yes,PhD,Approved
+53,68994,776.0,20734,6.0,Yes,Master,Approved
+62,99079,849.0,178501,1.0,No,High School,Rejected
+64,32615,313.0,177409,5.0,No,Master,Rejected
+42,21466,691.0,438541,31.0,Yes,Bachelor,Rejected
+24,50771,646.0,350744,19.0,Yes,PhD,Rejected
+49,138645,609.0,460730,33.0,Yes,PhD,Approved
+25,103886,685.0,275577,15.0,Yes,Master,Approved
+65,85911,508.0,145183,24.0,Yes,Master,Rejected
+63,118566,656.0,108986,11.0,No,High School,Rejected
+23,40746,393.0,330897,6.0,No,High School,Rejected
+48,108422,392.0,118783,38.0,Yes,Bachelor,Rejected
+42,129884,639.0,216655,16.0,Yes,Master,Approved
+25,80739,744.0,471836,10.0,Yes,Master,Rejected
+51,128440,321.0,288895,5.0,No,Master,Rejected
+61,118187,590.0,152525,22.0,No,PhD,Approved
+37,93369,784.0,221916,26.0,No,Bachelor,Approved
+34,21893,605.0,437184,5.0,Yes,High School,Rejected
+59,50573,427.0,166149,37.0,No,PhD,Rejected
+51,116907,572.0,244654,1.0,Yes,PhD,Rejected
+28,60874,741.0,432991,21.0,No,PhD,Approved
+56,97362,802.0,194216,19.0,No,PhD,Approved
+29,119956,429.0,315714,24.0,No,Bachelor,Approved
+39,107460,431.0,182169,14.0,Yes,Master,Rejected
+25,147021,781.0,291647,28.0,Yes,High School,Approved
+67,138580,689.0,138851,7.0,No,High School,Approved
+22,53367,624.0,353984,36.0,Yes,PhD,Rejected
+61,41199,368.0,136827,32.0,Yes,PhD,Rejected
+30,136600,747.0,306407,21.0,Yes,Bachelor,Approved
+62,111404,827.0,375635,4.0,Yes,PhD,Approved
+36,94328,464.0,322231,38.0,Yes,High School,Approved
+51,77724,787.0,440497,17.0,Yes,High School,Approved
+23,106133,725.0,56482,37.0,Yes,Master,Approved
+23,56405,564.0,453073,36.0,No,Master,Rejected
+36,118232,641.0,127989,29.0,Yes,High School,Rejected
+60,128659,577.0,415616,30.0,Yes,High School,Rejected
+38,35989,738.0,307259,9.0,No,Bachelor,Rejected
+24,48931,456.0,281393,,No,Bachelor,Rejected
+51,29290,721.0,249255,17.0,No,High School,Rejected
+41,58367,550.0,445041,22.0,No,PhD,Rejected
+25,141136,829.0,115361,32.0,Yes,Master,Approved
+54,99878,626.0,291744,15.0,No,High School,Approved
+41,110477,396.0,304850,37.0,No,PhD,Rejected
+20,99481,812.0,286366,34.0,Yes,High School,Approved
+39,96298,515.0,366185,33.0,Yes,Master,Rejected
+41,146299,431.0,371648,27.0,Yes,Master,Rejected
+67,50133,559.0,46139,1.0,No,Bachelor,Rejected
+30,132616,424.0,119919,29.0,Yes,Bachelor,Rejected
+32,125686,381.0,252677,12.0,No,Bachelor,Rejected
+61,47052,582.0,308446,15.0,Yes,Bachelor,Rejected
+22,127286,358.0,230756,4.0,Yes,Master,Rejected
+28,105489,843.0,354982,,No,PhD,Approved
+31,60475,460.0,466375,38.0,Yes,PhD,Rejected
+42,102666,583.0,144718,19.0,Yes,PhD,Approved
+33,116622,405.0,149615,23.0,Yes,High School,Rejected
+52,77656,404.0,230568,26.0,Yes,Bachelor,Rejected
+37,24633,738.0,158857,29.0,Yes,Bachelor,Rejected
+68,37304,527.0,345497,26.0,No,Master,Rejected
+60,127573,617.0,429622,25.0,No,Master,Rejected
+28,117820,763.0,356136,6.0,Yes,High School,Approved
+42,66546,771.0,318572,37.0,No,High School,Approved
+29,27008,355.0,28777,4.0,No,PhD,Rejected
+38,68291,312.0,62939,22.0,No,Master,Rejected
+66,47405,739.0,451242,27.0,Yes,Bachelor,Rejected
+24,137069,,353594,33.0,Yes,PhD,Rejected
+66,56386,412.0,427769,14.0,Yes,Bachelor,Rejected
+42,110909,528.0,28548,31.0,No,PhD,Approved
+49,40827,470.0,461437,25.0,No,Bachelor,Rejected
+44,53040,594.0,435481,30.0,Yes,High School,Rejected
+47,80354,488.0,130549,18.0,Yes,PhD,Rejected
+53,98543,725.0,438917,8.0,No,Bachelor,Rejected
+64,38157,378.0,449503,28.0,No,Bachelor,Rejected
+67,117693,481.0,142799,38.0,Yes,Master,Approved
+66,55315,798.0,246532,3.0,No,PhD,Rejected
+44,55932,370.0,186789,2.0,No,Bachelor,Rejected
+29,41164,547.0,430643,28.0,No,Master,Rejected
+33,34414,,152764,10.0,No,Bachelor,Rejected
+61,147597,595.0,36625,32.0,No,PhD,Approved
+65,34327,769.0,292062,37.0,No,High School,Approved
+49,133880,805.0,439352,10.0,No,PhD,Approved
+60,20946,492.0,381970,26.0,Yes,PhD,Rejected
+44,34693,367.0,119881,32.0,Yes,Bachelor,Rejected
+33,47241,793.0,450625,20.0,No,Bachelor,Rejected
+54,135194,351.0,282721,38.0,No,PhD,Approved
+67,115790,662.0,352299,30.0,No,Master,Approved
+53,35540,773.0,116776,37.0,Yes,Master,Approved
+29,92255,820.0,366390,1.0,Yes,Master,Rejected
+54,84757,730.0,238996,26.0,No,Bachelor,Approved
+30,61203,597.0,262831,35.0,Yes,Bachelor,Rejected
+30,45081,734.0,217803,10.0,No,PhD,Rejected
+40,81861,497.0,163761,17.0,No,High School,Rejected
+40,31350,427.0,147226,0.0,No,Bachelor,Rejected
+41,75512,831.0,362092,34.0,No,PhD,Rejected
+64,76809,710.0,26341,,No,PhD,Approved
+26,121894,364.0,364698,30.0,No,High School,Rejected
+36,117557,540.0,210753,27.0,No,Master,Rejected
+21,62832,668.0,374942,38.0,Yes,PhD,Rejected
+31,48369,835.0,313474,0.0,No,PhD,Rejected
+61,51728,683.0,254141,24.0,Yes,PhD,Approved
+37,37576,730.0,354903,37.0,No,Master,Rejected
+30,49001,382.0,204488,19.0,No,Master,Rejected
+35,147625,585.0,261139,2.0,Yes,High School,Approved
+68,103384,833.0,353951,,Yes,Bachelor,Rejected
+37,20390,758.0,300457,17.0,No,Master,Rejected
+54,107535,511.0,314044,9.0,Yes,Bachelor,Rejected
+45,65436,425.0,83840,4.0,No,Bachelor,Rejected
+35,31569,712.0,170767,8.0,No,Master,Rejected
+25,33029,798.0,166297,1.0,Yes,PhD,Rejected
+63,42490,724.0,353216,33.0,Yes,High School,Approved
+62,65875,842.0,363511,37.0,Yes,Bachelor,Approved
+66,143552,457.0,54156,30.0,Yes,PhD,Rejected
+66,120864,411.0,213281,9.0,No,Master,Rejected
+67,25867,701.0,92453,11.0,Yes,Bachelor,Rejected
+61,100820,421.0,163901,35.0,Yes,Bachelor,Rejected
+31,119515,572.0,479124,,Yes,Bachelor,Rejected
+32,29121,593.0,30938,5.0,Yes,PhD,Rejected
+23,21539,697.0,64164,2.0,Yes,PhD,Rejected
+58,111024,770.0,452746,,No,PhD,Approved
+21,37027,506.0,204271,4.0,No,Bachelor,Rejected
+45,147402,409.0,65282,25.0,Yes,Bachelor,Rejected
+46,94229,739.0,314945,20.0,Yes,High School,Approved
+46,28921,577.0,407681,25.0,No,High School,Rejected
+34,70435,781.0,270470,37.0,Yes,PhD,Approved
+27,142368,413.0,401875,25.0,No,PhD,Rejected
+26,30310,776.0,458505,7.0,No,Master,Rejected
+66,83965,620.0,163666,4.0,Yes,PhD,Rejected
+65,142033,478.0,120819,14.0,No,High School,Approved
+59,131048,518.0,271907,15.0,Yes,High School,Rejected
+31,116444,827.0,486873,0.0,Yes,High School,Approved
+32,89922,791.0,146900,15.0,No,Bachelor,Approved
+62,117799,360.0,314732,36.0,No,Bachelor,Rejected
+36,113948,353.0,278365,2.0,Yes,PhD,Rejected
+36,102839,837.0,409427,30.0,No,Master,Approved
+55,32242,364.0,18569,12.0,Yes,Master,Rejected
+40,137027,,232966,15.0,No,Master,Rejected
+27,132561,572.0,42860,20.0,No,Bachelor,Approved
+24,28947,834.0,207630,1.0,Yes,High School,Rejected
+45,132250,690.0,312481,26.0,Yes,High School,Approved
+35,91466,626.0,450527,37.0,Yes,Bachelor,Rejected
+55,123706,,149587,25.0,No,Master,Approved
+47,140351,461.0,76695,37.0,Yes,Master,Approved
+48,144749,,258078,24.0,Yes,PhD,Approved
+66,81816,505.0,247599,10.0,No,PhD,Rejected
+31,68785,315.0,373893,7.0,No,Master,Rejected
+56,139963,626.0,485443,7.0,Yes,Bachelor,Rejected
+49,20507,301.0,160976,32.0,Yes,Master,Rejected
+42,86972,309.0,196007,6.0,Yes,PhD,Rejected
+35,47151,733.0,310934,37.0,Yes,Master,Approved
+33,31618,424.0,335724,20.0,No,Bachelor,Rejected
+29,94286,380.0,473364,7.0,No,High School,Rejected
+26,36122,784.0,10636,20.0,Yes,Bachelor,Rejected
+64,27354,449.0,266578,19.0,Yes,Bachelor,Rejected
+56,129598,639.0,344273,7.0,Yes,PhD,Rejected
+48,50979,428.0,401108,30.0,No,Bachelor,Rejected
+22,106436,737.0,288816,28.0,Yes,Bachelor,Approved
+34,99376,800.0,272956,8.0,Yes,PhD,Approved
+55,72774,357.0,232693,14.0,No,PhD,Rejected
+66,122703,497.0,5654,29.0,No,High School,Approved
