@@ -39,8 +39,8 @@ An enterprise-grade, intelligent AutoML CLI tool that automatically analyzes dat
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/automl-cli.git
-cd automl-cli
+git clone https://github.com/S37F/AutoML-CLI.git
+cd AutoML-CLI
 
 # Install dependencies
 pip install -r requirements.txt
